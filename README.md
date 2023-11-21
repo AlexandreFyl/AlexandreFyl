@@ -2,6 +2,10 @@
   <img src="https://drive.google.com/uc?export=view&id=1C9o8uZE_3kRR3_o8uM2i9MD-KOfJpGx9"/>
 </div>
 
+<div align="center">
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${AlexandreFyl}.${AlexandreFyl}&left_color=green&right_color=red)
+</div>
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 Let's quickly introduce myself to you ! My name is Alexandre Fayolle and I've been into science and geek stuff since I was a kid. 🧒
