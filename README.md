@@ -49,8 +49,8 @@ Hope to see you soon ! 🤝
 ### Spoken languages
 
 <div>
-  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1eb-1f1f7.svg" width="150">
-  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ec-1f1e7.svg" width="150">
+  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1eb-1f1f7.svg" width="100">
+  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ec-1f1e7.svg" width="100">
 </div>
 
 
