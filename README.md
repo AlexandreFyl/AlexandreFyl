@@ -14,7 +14,7 @@ Hope to see you soon ! 🤝
 
 ### My actual Tech stack
 
-<div align="center">
+<div>
   <a href="https://www.java.com/fr/">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge"/>
   </a>
