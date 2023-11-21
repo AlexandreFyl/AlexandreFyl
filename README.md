@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexandreFyl.AlexandreFyl&left_color=green&right_color=red)
   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AlexandreFyl.AlexandreFyl)
 </div>
 
