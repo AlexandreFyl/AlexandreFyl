@@ -48,8 +48,10 @@ Hope to see you soon ! 🤝
 
 ### Spoken languages
 
-![image](https://github.com/AlexandreFyl/AlexandreFyl/assets/64584150/a0790097-b5a9-4162-a61d-73545dd3ba85) ![image](https://github.com/AlexandreFyl/AlexandreFyl/assets/64584150/67a76f4b-521d-4165-8918-c71f7cebe92f)
-
+<div>
+  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1eb-1f1f7.svg" width="150">
+  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ec-1f1e7.svg" width="150">
+</div>
 
 
 <!--
