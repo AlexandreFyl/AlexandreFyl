@@ -38,10 +38,10 @@ Hope to see you soon ! 🤝
   <a href=mailto:“afayolle43@gmail.com”>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://discordapp.com/users/730816239135359016>
+  <a href="https://discordapp.com/users/730816239135359016">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-    <a href="https://xdaforums.com/m/abc43.3392962/">
+  <a href="https://xdaforums.com/m/abc43.3392962/">
     <img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA Badge"/>
   </a>
 </div>
