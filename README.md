@@ -46,6 +46,12 @@ Hope to see you soon ! 🤝
   </a>
 </div>
 
+### Spoken languages
+
+![image](https://github.com/AlexandreFyl/AlexandreFyl/assets/64584150/a0790097-b5a9-4162-a61d-73545dd3ba85) ![image](https://github.com/AlexandreFyl/AlexandreFyl/assets/64584150/67a76f4b-521d-4165-8918-c71f7cebe92f)
+
+
+
 <!--
 **AlexandreFyl/AlexandreFyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
