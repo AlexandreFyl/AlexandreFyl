@@ -12,6 +12,25 @@ I'm always starving for new discoveries and that's one thing i love in this spac
 
 Hope to see you soon ! 🤝
 
+### My actual Tech stack
+
+<div>
+  <a href="https://www.java.com/fr/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/>
+  </a>
+    <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
+  </a>
+</div>
+
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+
 <!--
 **AlexandreFyl/AlexandreFyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
