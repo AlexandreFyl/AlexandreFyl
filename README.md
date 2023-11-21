@@ -1,9 +1,3 @@
-
-<style>
-.smallmargin {
-          margin: 5px;
-        }
-</style>
 <div id="header" align="center">
   <img src="https://drive.google.com/uc?export=view&id=1C9o8uZE_3kRR3_o8uM2i9MD-KOfJpGx9"/>
 </div>
