@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1C9o8uZE_3kRR3_o8uM2i9MD-KOfJpGx9"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=AlexandreFyl)
+![](https://komarev.com/ghpvc/?username=AlexandreFyl&color=lightgrey)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
